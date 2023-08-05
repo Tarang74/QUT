@@ -1,6 +1,6 @@
 # QUT Notes
 
-## Tarang Janawalkar
+## By Tarang Janawalkar
 
 Thank you for visiting this page!
 
