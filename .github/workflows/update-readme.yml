@@ -1,6 +1,8 @@
 name: README Updater
 
 on:
+  push:
+    branches: [main]
   schedule:
     # Every 5 minutes
     - cron: "*/5 * * * *"
@@ -24,5 +26,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add .
-          git commit -m "READMEs Updated"
+          git commit -m "READMEs updated"
           git push
