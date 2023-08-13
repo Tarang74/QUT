@@ -25,6 +25,10 @@ jobs:
               # Download README
               curl "https://raw.githubusercontent.com/Tarang74/$unit/main/README.md" --output $unit.md
           done
+      - name: Configure git
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
       - name: Commit and push changes
         run: |
           git add .
