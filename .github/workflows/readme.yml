@@ -1,4 +1,4 @@
-name: README Updater
+name: README fetcher
 
 on:
   push:
@@ -31,6 +31,10 @@ jobs:
           git config --global user.name "GitHub Actions"
       - name: Commit and push changes
         run: |
-          git add .
-          git commit -m "READMEs updated"
-          git push
+          if [[ -z "$(git status --porcelain $STATUS_ARGS $PATHSPEC)" ]]; then
+            echo "No changes to commit"
+          else
+            git add .
+            git commit -m "Update READMEs"
+            git push
+          fi
