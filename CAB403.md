@@ -21,6 +21,7 @@ This repository provides **lecture notes** for **CAB403 - Systems Programming**.
 ## Contents
 
 1. Operating Systems Overview
+2. Operating System Structures
 
 ---
 
