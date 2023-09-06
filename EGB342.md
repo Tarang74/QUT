@@ -24,6 +24,7 @@ This repository provides **lecture notes** and **exam notes** for **EGB342 - Tel
 
 1. Telecommunications Systems
 2. Angle Modulation
+3. Digital Modulation
 
 ---
 
