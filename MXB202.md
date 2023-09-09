@@ -22,7 +22,8 @@ This repository provides **lecture notes** for **MXB202 - Advanced Calculus**.
 
 1. Euclidean Space
 2. Multivariable Calculus
-3. Integration
+3. Double Integrals
+4. Multiple Integrals
 
 ---
 
