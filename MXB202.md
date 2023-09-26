@@ -24,6 +24,7 @@ This repository provides **lecture notes** for **MXB202 - Advanced Calculus**.
 2. Multivariable Calculus
 3. Double Integrals
 4. Multiple Integrals
+5. Vector Calculus
 
 ---
 
