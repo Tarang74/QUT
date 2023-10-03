@@ -24,6 +24,7 @@ This repository provides **lecture notes** for **CAB403 - Systems Programming**.
 2. Operating System Structures
 3. Processes
 4. Threads
+5. Synchronisation
 
 ---
 
