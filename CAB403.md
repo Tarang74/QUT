@@ -25,6 +25,7 @@ This repository provides **lecture notes** for **CAB403 - Systems Programming**.
 3. Processes
 4. Threads
 5. Synchronisation
+6. Safety Critical Systems
 
 ---
 
