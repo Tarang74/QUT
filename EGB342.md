@@ -22,9 +22,11 @@ This repository provides **lecture notes** for **EGB342 - Telecommunications and
 
 1. Telecommunications Systems
 2. Angle Modulation
-3. Digital Modulation
+3. Digital Baseband Modulation
 4. Information Theory
 5. Source Coding
+6. Digital Passband Modulation
+7. Radio Frequency (RF) Systems
 
 ---
 
