@@ -27,6 +27,7 @@ This repository provides **lecture notes** for **CAB403 - Systems Programming**.
 5. Synchronisation
 6. Safety Critical Systems
 7. Distributed Systems
+8. CPU Scheduling
 
 ---
 
