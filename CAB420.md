@@ -23,6 +23,8 @@ This repository provides **lecture notes** and **exam notes** for **CAB420 - Mac
 ## Contents
 
 1. Introduction
+2. Linear Regression
+3. Numerical Summaries of Data
 
 ---
 
