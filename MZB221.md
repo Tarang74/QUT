@@ -23,6 +23,7 @@ This repository provides **lecture notes** and **exam notes** for **MZB221 - Ele
 ## Contents
 
 1. Infinite Series
+2. Series Approximations
 
 ---
 
