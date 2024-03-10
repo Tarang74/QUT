@@ -22,7 +22,8 @@ This repository provides **lecture notes** and **exam notes** for **MXB326 - Com
 
 ## Contents
 
-1. Finite Volume Methods
+1. The Transport Equation
+2. Finite Volume Method
 
 ---
 
