@@ -26,7 +26,8 @@ This repository provides **lecture notes** and **exam notes** for **CAB420 - Mac
 2. Linear Regression
 3. Regularisation
 4. Classification
-5. Numerical Summaries of Data
+5. Neural Networks
+6. Numerical Summaries of Data
 
 ---
 
