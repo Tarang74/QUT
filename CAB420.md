@@ -27,7 +27,9 @@ This repository provides **lecture notes** and **exam notes** for **CAB420 - Mac
 3. Regularisation
 4. Classification
 5. Neural Networks
-6. Numerical Summaries of Data
+6. Optimisation Algorithms
+7. Autoencoders
+8. Numerical Summaries of Data
 
 ---
 
