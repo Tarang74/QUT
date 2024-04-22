@@ -22,9 +22,13 @@ This repository provides **lecture notes** and **exam notes** for **MZB221 - Ele
 
 ## Contents
 
-1. Infinite Series
+1. Sequences and Series
 2. Taylor Series
 3. Fourier Series
+4. Scalar Fields
+5. Vector Fields
+6. Multiple Integrals
+7. Line and Surface Integrals
 
 ---
 
