@@ -22,8 +22,15 @@ This repository provides **lecture notes** and **exam notes** for **MXB326 - Com
 
 ## Contents
 
-1. The Transport Equation
-2. Finite Volume Method
+1. Transport Problems
+2. Spatial Discretisation
+3. The Time-Dependent Transport Equation
+4. Time Discretisation
+5. Stability Analysis
+6. Monotonicity
+7. Finite Volume Method in 1D
+8. Newton's Method
+9. Modified Newton Methods
 
 ---
 
