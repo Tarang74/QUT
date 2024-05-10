@@ -31,6 +31,8 @@ This repository provides **lecture notes** and **exam notes** for **MXB326 - Com
 7. Finite Volume Method in 1D
 8. Newton's Method
 9. Modified Newton Methods
+10. Convergence Theory
+11. Inexact Newton Method
 
 ---
 
