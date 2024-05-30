@@ -33,7 +33,7 @@ This repository provides **lecture notes** and **exam notes** for **MXB326 - Com
 9. Modified Newton Methods
 10. Convergence Theory
 11. Inexact Newton Method
-12. Krylov Subspace
+12. Krylov Subspaces
 
 ---
 
