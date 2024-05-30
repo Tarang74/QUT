@@ -34,6 +34,9 @@ This repository provides **lecture notes** and **exam notes** for **MXB326 - Com
 10. Convergence Theory
 11. Inexact Newton Method
 12. Krylov Subspaces
+13. Solving Sparse Linear Systems
+14. Newton-Krylov Methods
+15. Appendix
 
 ---
 
