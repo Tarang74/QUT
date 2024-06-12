@@ -26,10 +26,15 @@ This repository provides **lecture notes** and **exam notes** for **CAB420 - Mac
 2. Linear Regression
 3. Regularisation
 4. Classification
-5. Neural Networks
-6. Optimisation Algorithms
-7. Autoencoders
-8. Numerical Summaries of Data
+5. Feedforward Neural Networks
+6. Training Neural Networks
+7. Optimisation Algorithms and Regularisation
+8. Convolutional Neural Networks
+9. Clustering
+10. Dimensionality Reduction
+11. Autoencoders
+12. Sequences and Attention Mechanisms
+13. Numerical Summaries of Data
 
 ---
 
