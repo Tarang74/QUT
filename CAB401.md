@@ -1,20 +1,18 @@
-# QUT-Notes-Template - Unit name
+# CAB401 - High Performance and Parallel Computing
 
-## Unit coordinator name
+## Associate Professor Wayne Kelly
 
-### 
+### Semester 2, 2024
 
 ---
 
 ## Downloads
 
-Lecture notes download: [QUT-Notes-Template Lecture Notes PDF](https://www.github.com/Tarang74/QUT-Notes-Template/raw/main/QUT-Notes-Template%20Lecture%20Notes.pdf)
-
-Exam notes download: [QUT-Notes-Template Exam Notes PDF](https://www.github.com/Tarang74/QUT-Notes-Template/raw/main/QUT-Notes-Template%20Exam%20Notes.pdf)
+Lecture notes download: [CAB401 Lecture Notes PDF](https://www.github.com/Tarang74/CAB401/raw/main/CAB401%20Lecture%20Notes.pdf)
 
 ---
 
-This repository provides **lecture notes** and **exam notes** for **QUT-Notes-Template - Unit name**.
+This repository provides **lecture notes** for **CAB401 - High Performance and Parallel Computing**.
 
 *The contents of the lecture notes are described below.*
 
@@ -22,7 +20,7 @@ This repository provides **lecture notes** and **exam notes** for **QUT-Notes-Te
 
 ## Contents
 
-1. Section 1
+1. Processor Design
 
 ---
 
