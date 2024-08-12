@@ -21,6 +21,7 @@ This repository provides **lecture notes** for **CAB401 - High Performance and P
 ## Contents
 
 1. Processor Design
+2. Parallelisation
 
 ---
 
