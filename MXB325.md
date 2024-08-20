@@ -22,6 +22,10 @@ This repository provides **lecture notes** and **exam notes** for **MXB325 - Dif
 
 ## Contents
 
+1. Symmetry Transformations
+2. Similarity Solutions
+3. Travelling Wave Solutions
+4. First Order PDEs
 
 ---
 
