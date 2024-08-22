@@ -26,6 +26,8 @@ This repository provides **lecture notes** and **exam notes** for **MXB325 - Dif
 2. Similarity Solutions
 3. Travelling Wave Solutions
 4. First Order PDEs
+5. System of First Order PDEs
+6. Second Order PDEs
 
 ---
 
