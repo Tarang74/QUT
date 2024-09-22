@@ -22,6 +22,8 @@ This repository provides **lecture notes** for **EGH444 - Digital Signals and Im
 
 1. Digital Image Processing
 2. Intensity Transformations \& Spatial Filters
+3. Filtering in the Frequency Domain
+4. Colour
 
 ---
 
