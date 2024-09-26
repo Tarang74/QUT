@@ -28,6 +28,8 @@ This repository provides **lecture notes** and **exam notes** for **MXB325 - Dif
 4. First Order PDEs
 5. System of First Order PDEs
 6. Second Order PDEs
+7. Conservation of Mass
+8. Continuum Mechanics
 
 ---
 
