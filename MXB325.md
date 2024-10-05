@@ -30,6 +30,9 @@ This repository provides **lecture notes** and **exam notes** for **MXB325 - Dif
 6. Second Order PDEs
 7. Conservation of Mass
 8. Continuum Mechanics
+9. Unidirectional Flow
+10. Dimensionless Form
+11. Inviscid Flow
 
 ---
 
