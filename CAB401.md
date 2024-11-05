@@ -26,6 +26,8 @@ This repository provides **lecture notes** for **CAB401 - High Performance and P
 4. Locality
 5. Graphics Processing Units
 6. Parallel Programming
+7. Big Data
+8. Cloud Computing
 
 ---
 
