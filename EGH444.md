@@ -28,6 +28,7 @@ This repository provides **lecture notes** for **EGH444 - Digital Signals and Im
 6. Image Features
 7. Image Segmentation
 8. Image Compression
+9. Deep Learning
 
 ---
 
