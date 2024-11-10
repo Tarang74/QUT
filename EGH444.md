@@ -25,6 +25,9 @@ This repository provides **lecture notes** for **EGH444 - Digital Signals and Im
 3. Filtering in the Frequency Domain
 4. Colour
 5. Image Restoration
+6. Image Features
+7. Image Segmentation
+8. Image Compression
 
 ---
 
