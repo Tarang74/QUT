@@ -10,11 +10,9 @@
 
 Lecture notes download: [MXB325 Lecture Notes PDF](https://www.github.com/Tarang74/MXB325/raw/main/MXB325%20Lecture%20Notes.pdf)
 
-Exam notes download: [MXB325 Exam Notes PDF](https://www.github.com/Tarang74/MXB325/raw/main/MXB325%20Exam%20Notes.pdf)
-
 ---
 
-This repository provides **lecture notes** and **exam notes** for **MXB325 - Differential Equations and Modelling 2**.
+This repository provides **lecture notes** for **MXB325 - Differential Equations and Modelling 2**.
 
 *The contents of the lecture notes are described below.*
 
@@ -33,6 +31,7 @@ This repository provides **lecture notes** and **exam notes** for **MXB325 - Dif
 9. Unidirectional Flow
 10. Dimensionless Form
 11. Inviscid Flow
+12. Viscous Flow
 
 ---
 
