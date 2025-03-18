@@ -1,20 +1,18 @@
-# QUT-Notes-Template - Unit name
+# EGH456 - Embedded Systems
 
-## Unit coordinator name
+## Dr Chris Lehnert
 
-### 
+### Semester 1, 2025
 
 ---
 
 ## Downloads
 
-Lecture notes download: [QUT-Notes-Template Lecture Notes PDF](https://www.github.com/Tarang74/QUT-Notes-Template/raw/main/QUT-Notes-Template%20Lecture%20Notes.pdf)
-
-Exam notes download: [QUT-Notes-Template Exam Notes PDF](https://www.github.com/Tarang74/QUT-Notes-Template/raw/main/QUT-Notes-Template%20Exam%20Notes.pdf)
+Lecture notes download: [EGH456 Lecture Notes PDF](https://www.github.com/Tarang74/EGH456/raw/main/EGH456%20Lecture%20Notes.pdf)
 
 ---
 
-This repository provides **lecture notes** and **exam notes** for **QUT-Notes-Template - Unit name**.
+This repository provides **lecture notes** for **EGH456 - Embedded Systems**.
 
 *The contents of the lecture notes are described below.*
 
@@ -22,7 +20,6 @@ This repository provides **lecture notes** and **exam notes** for **QUT-Notes-Te
 
 ## Contents
 
-1. Section 1
 
 ---
 
