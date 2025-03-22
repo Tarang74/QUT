@@ -1,4 +1,4 @@
-# QUT Notes
+# Home Page
 
 ## By Tarang Janawalkar
 
