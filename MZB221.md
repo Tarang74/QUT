@@ -29,6 +29,9 @@ This repository provides **lecture notes** for **MZB221 - Electrical Engineering
 7. Line Integrals
 8. Surface Integrals
 9. Fundamental Theorems of Calculus
+10. Laplace Transform
+11. Nonlinear ODEs
+12. System of Differential Equations
 
 ---
 

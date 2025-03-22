@@ -25,7 +25,7 @@ This repository provides **lecture notes** and **exam notes** for **MXB105 - Cal
 ## Contents
 
 1. Integration Techniques
-2. Limits, Continuity and Differentiability
+2. Limits, Continuity, and Differentiability
 3. Definite Integrals
 4. Taylor and Maclaurin Series
 5. Multivariable Calculus
@@ -34,7 +34,7 @@ This repository provides **lecture notes** and **exam notes** for **MXB105 - Cal
 8. Differential Equations
 9. First-Order Differential Equations
 10. Second-Order Differential Equations
-11. Nonhomogeneous ODEs
+11. Nonhomogeneous Differential Equations
 
 ---
 

@@ -30,6 +30,8 @@ This repository provides **lecture notes** for **CAB403 - Systems Programming**.
 8. CPU Scheduling
 9. Deadlocks
 10. Main Memory
+11. Protection
+12. File Systems
 
 ---
 

@@ -24,18 +24,13 @@ This repository provides **lecture notes** and **exam notes** for **MXB101 - Pro
 
 ## Contents
 
-1. Events and Probability
-2. Independence
-3. Total Probability
-4. Combinatorics
-5. Random Variables and Distributions
-6. Random Variables
-7. Special Discrete Distributions
-8. Special Continuous Distributions
-9. Central Limit Theorem
-10. Bivariate Distributions
-11. Markov Chains
-12. Poisson Processes
+1. Introduction
+2. Combinatorics
+3. Stochastic Models
+4. Central Limit Theorem
+5. Bivariate Distributions
+6. Markov Chains
+7. Poisson Processes
 
 ---
 
