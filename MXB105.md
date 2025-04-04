@@ -24,17 +24,17 @@ This repository provides **lecture notes** and **exam notes** for **MXB105 - Cal
 
 ## Contents
 
-1. Integration Techniques
-2. Limits, Continuity, and Differentiability
-3. Definite Integrals
-4. Taylor and Maclaurin Series
-5. Multivariable Calculus
-6. Double and Triple Integrals
-7. Vector-Valued Functions
-8. Differential Equations
-9. First-Order Differential Equations
-10. Second-Order Differential Equations
-11. Nonhomogeneous Differential Equations
+1. Analysis of Functions
+2. Definite Integration
+3. Taylor and Maclaurin Series
+4. Multivariable Calculus
+5. Double and Triple Integrals
+6. Vector-Valued Functions
+7. Differential Equations
+8. First-Order Differential Equations
+9. Second-Order Differential Equations
+10. Nonhomogeneous Differential Equations
+11. Integration Techniques
 
 ---
 
