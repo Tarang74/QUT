@@ -20,6 +20,7 @@ This repository provides **lecture notes** for **EGH456 - Embedded Systems**.
 
 ## Contents
 
+1. Introduction
 
 ---
 
