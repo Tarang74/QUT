@@ -21,7 +21,11 @@ This repository provides **lecture notes** for **EGH456 - Embedded Systems**.
 ## Contents
 
 1. Introduction
-2. System Control
+2. Microcontroller Peripherals
+3. Exceptions
+4. Multithreading
+5. FreeRTOS
+6. Synchronisation
 
 ---
 
